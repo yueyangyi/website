@@ -1,0 +1,50 @@
+baseurl: /
+languageCode: en-us
+title: Yi, Yueyang 
+theme: hugo-ivy
+googleAnalytics: ''
+disqusShortname: ''
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+permalinks:
+  post: /:year/:month/:day/:slug/
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Research"
+      url: "/research/"
+      weight: 2
+    - name: "Résumé"
+      url: "http://nbviewer.org/github/yueyangyi/website/blob/main/content/yueyang_yi_resume_aug2022.pdf"
+      weight: 3
+    - name: "五言律诗"
+      url: "/wuyanlvshi/"
+      weight: 4
+params:
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: Climate Risk in a Changing Globe.
+  footer: "&copy; [Yueyang Yi](https://www.yueyangyi.com) 2022"
+  favicon: "/favicon.ico"
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Logo
+    height: 50
+    url: logo.png
+    width: 50
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes

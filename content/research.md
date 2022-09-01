@@ -1,0 +1,18 @@
+---
+title: Research
+---
+## Dynamic Human Systems
+Monitoring human dynamics is critical for providing public services. The traditional "top-down" population mapping methods tend to appropriately allocate population numbers at some upper level
+of spatial scale to fine grid squares, while the recently emerging "bottom-up" approaches estimate up-to-date gridded population in countries without a complete and recent census, based on limited household surveys in randomly selected areas (also known as "microcensus") and several geospatial covariates available nationwide. Utilising a hierarchical Bayesian model enables those estimates to be accompanied by estimates of uncertainty, based on their posterior marginal distributions. 
+
+I am interested in developing novel statistical methods to map population and human activity (e.g., urbanisation) patterns at high spatial and temporal resolutions. Assessing the increasing human and monetary exposure to the climate risk and the increasing human impacts on the environment (e.g., air pollution) are also of interest. My interdisciplineary research combines traditional analytical approaches in human demography with brand new geospatial data ranging from household survey data to satellite-based data.
+
+## Dynamic Climate Systems
+Fast and realistic simulations of atmospheric variables (e.g., temperature and precipitation) at several locations and daily or hourly temporal scales are of researchers' interest. Spatiotemporal dynamics and correlation structures among the variables of interest, as well as weather persistence and natural variability have to be reproduced accurately in a distributional sense. Some novel hierarchical models have been established for high threshold exceedances defined over continuous space and time (e.g., by embedding a spatiotemporal Gamma process convolution for the rate of an exponential variable) already.
+
+My interest is to apply generated precipitation scenarios to the hydrodynamic models and to conduct correlative studies between inputs and outputs of the numerical model whose outputs are inundation depths and velocities of flood water, so as to replace the mainstream probabilistic-rainfall-physical-runoff-physical-hydrodynamics approach with a data-driven fully probabilistic approach. I would also like to investigate spatial and temporal interrelationships and interlinkages among different hazards and across different kinds of societal impacts (e.g., coupled risks of high temperatures and droughts) with state-of-the-art multivariate statistical modelling techniques (e.g., Copula and Bayesian network).
+
+## Dynamic Human-Climate Systems
+Whenever dynamic human systems and dynamic climate systems get established, it would be interesting to expand my research into dynamic human-climate Systems. Some interesting comparative studies could be made at several spatial and temporal scales (e.g., exposure of tourist cities in monsoon seasons or climate-change amplified flood risk in rapidly urbanised developing countries in the past 50 years) at the first stage. 
+
+The interactions between dynamic habitation patterns and dynamic earth systems will help us understand the relationship between human and the earth. For example, anthropogenic influence on the water cycle (e.g., abstraction, pollution, and climate change) is making it more and more challenging to balance human and environmental water demands, while climate-related inequality impedes access to water and exacerbates impacts of droughts and water scarcity. Finding a good balance point between human development and integrity of the earth systems in order to create a virtuous circle is the necessary preparedness for achieving United Nations Sustainable Development Goals. 

@@ -5,7 +5,7 @@ author: 易悦阳
 <center>(一)</center>
 <center>流霭遮不住，清光入旧寒。</center>
 <center>林繁深闭户，万籁少牵攀。</center>
-<center>屈赋长怀恨，陶诗总惘然。</center>
+<center>屈赋长萦恨，陶诗总惘然。</center>
 <center>雨云相转续，鵩鸟不能言。</center>
 
 <center>(二)</center>
